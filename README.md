@@ -5,7 +5,7 @@ MEDICONNECT is a platform that bridges the gap between doctors and patients usin
 
 ## Features
 - **Real-Time Chat**: Powered by WebSocket.IO for live communication between doctors and patients.
-- **Unique Room ID**: Each doctor is given a unique room ID for one-on-one or group consultations.
+- **Unique Room ID**: Each doctor is given a unique room ID for one-on-one consultations.
 - **Multiple Interactions**: Multiple interactions can take place simultaneously, allowing doctors to manage several patients at the same time.
 
 ## Technologies Used
